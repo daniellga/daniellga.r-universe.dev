@@ -1,11 +1,12 @@
 [
     {
         "package": "rdocs",
-        "url": "https://github.com/daniellga/rdocs"
+        "url": "https://github.com/daniellga/rdocs",
+        "subdir": "rdocs"
     },
     {
         "package": "harmonium",
-        "url": "https://github.com/daniellga/harmonium"
+        "url": "https://github.com/daniellga/harmonium",
         "subdir": "r-harmonium" 
     },
 ]
